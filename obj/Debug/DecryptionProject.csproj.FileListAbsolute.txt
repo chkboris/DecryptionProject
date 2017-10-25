@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\Notebook\Programming\Visual Studio\DecryptionProject\bin\Debug\DecryptionProject.exe.config
+C:\Users\Boris\Desktop\Notebook\Programming\Visual Studio\DecryptionProject\bin\Debug\DecryptionProject.exe
+C:\Users\Boris\Desktop\Notebook\Programming\Visual Studio\DecryptionProject\bin\Debug\DecryptionProject.pdb
+C:\Users\Boris\Desktop\Notebook\Programming\Visual Studio\DecryptionProject\obj\Debug\DecryptionProject.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\Notebook\Programming\Visual Studio\DecryptionProject\obj\Debug\DecryptionProject.exe
+C:\Users\Boris\Desktop\Notebook\Programming\Visual Studio\DecryptionProject\obj\Debug\DecryptionProject.pdb
+C:\Programming\DecryptionProject\bin\Debug\DecryptionProject.exe.config
+C:\Programming\DecryptionProject\obj\Debug\DecryptionProject.exe
+C:\Programming\DecryptionProject\obj\Debug\DecryptionProject.pdb
+C:\Programming\DecryptionProject\bin\Debug\DecryptionProject.exe
+C:\Programming\DecryptionProject\bin\Debug\DecryptionProject.pdb
+C:\Programming\DecryptionProject\obj\Debug\DecryptionProject.csprojResolveAssemblyReference.cache
